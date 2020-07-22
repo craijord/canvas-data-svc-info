@@ -1,3 +1,3 @@
-name,dims,fill,stroke
-assignment_fact,assignment_dim,#ffffff,#82b366
-assignment_dim,,#e6e6e6,#82b366
+type,name,dims,fill,stroke
+fact,assignment_fact,assignment_dim,#ffffff,#82b366
+dimension,assignment_dim,,#e6e6e6,#82b366
