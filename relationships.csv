@@ -1,4 +1,4 @@
-name,type,id,manager,email,fill,stroke,refs,url,image,
+name,type,id,manager,email,fill,stroke,refs,url,image
 assignment_dim,dimension,assignment_dim,,,#d5e8d4,#82b366,,,,
 account_dim,dimension,account_dim,,,#dae8fc,#6c8ebf,,,,
 assignment_group_dim,dimension,assignment_group_dim,,,#d5e8d4,#82b366,,,,
