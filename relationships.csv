@@ -1,3 +1,3 @@
-name,id,refs
-assignment_dim,assignment_dim,
-assignment_fact,assignment_fact,assignment_dim
+type,fill,name,id,refs
+dimension,#ffffff,assignment_dim,assignment_dim,
+fact,#E6E6E6,assignment_fact,assignment_fact,assignment_dim
