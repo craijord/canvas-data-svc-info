@@ -1,0 +1,7 @@
+"table","relation_count","related_facts"
+"catalog_product_fact",5,"catalog_product_dim,catalog_dim,catalog_dim,course_dim,enrollment_term_dim"
+"catalog_product_dim",0,""
+"catalog_dim",0,""
+"catalog_dim",0,""
+"course_dim",0,""
+"enrollment_term_dim",0,""

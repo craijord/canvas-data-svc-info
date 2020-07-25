@@ -1,0 +1,8 @@
+"table","relation_count","related_facts"
+"catalog_order_item_fact",6,"catalog_order_dim,catalog_dim,catalog_dim,catalog_order_dim,catalog_product_dim,catalog_product_dim"
+"catalog_order_dim",0,""
+"catalog_dim",0,""
+"catalog_dim",0,""
+"catalog_order_dim",0,""
+"catalog_product_dim",0,""
+"catalog_product_dim",0,""

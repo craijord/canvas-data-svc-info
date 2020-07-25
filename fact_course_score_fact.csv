@@ -1,0 +1,5 @@
+"table","relation_count","related_facts"
+"course_score_fact",3,"account_dim,course_dim,enrollment_dim"
+"account_dim",0,""
+"course_dim",0,""
+"enrollment_dim",0,""

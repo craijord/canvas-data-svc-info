@@ -1,0 +1,4 @@
+"table","relation_count","related_facts"
+"assignment_group_fact",2,"assignment_group_dim,course_dim"
+"assignment_group_dim",0,""
+"course_dim",0,""

@@ -1,0 +1,7 @@
+"table","relation_count","related_facts"
+"module_fact",5,"module_dim,account_dim,course_dim,enrollment_term_dim,wiki_dim"
+"module_dim",0,""
+"account_dim",0,""
+"course_dim",0,""
+"enrollment_term_dim",0,""
+"wiki_dim",0,""

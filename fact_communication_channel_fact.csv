@@ -1,0 +1,4 @@
+"table","relation_count","related_facts"
+"communication_channel_fact",2,"communication_channel_dim,user_dim"
+"communication_channel_dim",0,""
+"user_dim",0,""

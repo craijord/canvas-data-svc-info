@@ -1,0 +1,5 @@
+"table","relation_count","related_facts"
+"grading_period_fact",3,"grading_period_group_dim,account_dim,course_dim"
+"grading_period_group_dim",0,""
+"account_dim",0,""
+"course_dim",0,""

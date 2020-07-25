@@ -1,0 +1,8 @@
+"table","relation_count","related_facts"
+"conference_participant_fact",6,"conference_participant_dim,group_dim,course_dim,account_dim,user_dim,conference_dim"
+"conference_participant_dim",0,""
+"group_dim",0,""
+"course_dim",0,""
+"account_dim",0,""
+"user_dim",0,""
+"conference_dim",0,""

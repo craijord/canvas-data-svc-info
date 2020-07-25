@@ -1,0 +1,8 @@
+"table","relation_count","related_facts"
+"assignment_fact",6,"assignment_dim,course_dim,account_dim,enrollment_term_dim,assignment_group_dim,external_tool_activation_dim"
+"assignment_dim",0,""
+"course_dim",0,""
+"account_dim",0,""
+"enrollment_term_dim",0,""
+"assignment_group_dim",0,""
+"external_tool_activation_dim",0,""

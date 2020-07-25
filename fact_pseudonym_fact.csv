@@ -1,0 +1,5 @@
+"table","relation_count","related_facts"
+"pseudonym_fact",3,"pseudonym_dim,user_dim,account_dim"
+"pseudonym_dim",0,""
+"user_dim",0,""
+"account_dim",0,""
