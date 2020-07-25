@@ -1,5 +1,5 @@
 "table","relation_count","related_facts,"fill","stroke","type"
-"submission_fact",14,"submission_dim,assignment_dim,course_dim,enrollment_term_dim,user_dim,user_dim,account_dim,enrollment_rollup_dim,account_dim,assignment_group_dim,group_dim,quiz_dim,quiz_submission_dim,wiki_dim,"#dae8fc","#6c8ebf","fact""
+"submission_fact",14,"submission_dim,assignment_dim,course_dim,enrollment_term_dim,user_dim,user_dim,account_dim,enrollment_rollup_dim,account_dim,assignment_group_dim,group_dim,quiz_dim,quiz_submission_dim,wiki_dim,"#dae8fc","#6c8ebf","fact"
 "submission_dim",0,"","#d5e8d4","#6c8ebf","dimension"
 "assignment_dim",0,"","#d5e8d4","#6c8ebf","dimension"
 "course_dim",0,"","#d5e8d4","#6c8ebf","dimension"
