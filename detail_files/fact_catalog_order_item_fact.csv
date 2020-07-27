@@ -1,0 +1,8 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"catalog_order_item_fact",6,"catalog_order_dim,catalog_dim,catalog_dim,catalog_order_dim,catalog_product_dim,catalog_product_dim","#dae8fc","#6c8ebf","fact"
+"catalog_order_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_order_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_product_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_product_dim",0,"","#d5e8d4","#6c8ebf","dimension"

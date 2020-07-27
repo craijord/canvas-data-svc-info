@@ -1,0 +1,7 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"catalog_product_fact",5,"catalog_product_dim,catalog_dim,catalog_dim,course_dim,enrollment_term_dim","#dae8fc","#6c8ebf","fact"
+"catalog_product_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"catalog_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"course_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"enrollment_term_dim",0,"","#d5e8d4","#6c8ebf","dimension"

@@ -1,0 +1,8 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"conference_participant_fact",6,"conference_participant_dim,group_dim,course_dim,account_dim,user_dim,conference_dim","#dae8fc","#6c8ebf","fact"
+"conference_participant_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"group_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"course_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"account_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"user_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"conference_dim",0,"","#d5e8d4","#6c8ebf","dimension"

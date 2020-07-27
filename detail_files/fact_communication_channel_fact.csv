@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"communication_channel_fact",2,"communication_channel_dim,user_dim","#dae8fc","#6c8ebf","fact"
+"communication_channel_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"user_dim",0,"","#d5e8d4","#6c8ebf","dimension"

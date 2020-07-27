@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"assignment_group_fact",2,"assignment_group_dim,course_dim","#dae8fc","#6c8ebf","fact"
+"assignment_group_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"course_dim",0,"","#d5e8d4","#6c8ebf","dimension"

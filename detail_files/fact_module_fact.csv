@@ -1,0 +1,7 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"module_fact",5,"module_dim,account_dim,course_dim,enrollment_term_dim,wiki_dim","#dae8fc","#6c8ebf","fact"
+"module_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"account_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"course_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"enrollment_term_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"wiki_dim",0,"","#d5e8d4","#6c8ebf","dimension"

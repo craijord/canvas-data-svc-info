@@ -1,0 +1,7 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"learning_outcome_rubric_criterion_fact",5,"learning_outcome_rubric_criterion_dim,learning_outcome_dim,account_dim,course_dim,enrollment_term_dim","#dae8fc","#6c8ebf","fact"
+"learning_outcome_rubric_criterion_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"learning_outcome_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"account_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"course_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"enrollment_term_dim",0,"","#d5e8d4","#6c8ebf","dimension"

@@ -1,0 +1,5 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"pseudonym_fact",3,"pseudonym_dim,user_dim,account_dim","#dae8fc","#6c8ebf","fact"
+"pseudonym_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"user_dim",0,"","#d5e8d4","#6c8ebf","dimension"
+"account_dim",0,"","#d5e8d4","#6c8ebf","dimension"
