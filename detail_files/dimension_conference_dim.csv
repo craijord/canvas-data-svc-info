@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"conference_dim",2,"conference_participant_fact,conference_fact","#d5e8d4","#6c8ebf","dimension"
+"conference_participant_fact",0,"","#dae8fc","#6c8ebf","fact"
+"conference_fact",0,"","#dae8fc","#6c8ebf","fact"

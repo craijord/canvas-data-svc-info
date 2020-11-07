@@ -1,0 +1,5 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"external_tool_activation_dim",3,"external_tool_activation_fact,course_ui_navigation_item_fact,assignment_fact","#d5e8d4","#6c8ebf","dimension"
+"external_tool_activation_fact",0,"","#dae8fc","#6c8ebf","fact"
+"course_ui_navigation_item_fact",0,"","#dae8fc","#6c8ebf","fact"
+"assignment_fact",0,"","#dae8fc","#6c8ebf","fact"

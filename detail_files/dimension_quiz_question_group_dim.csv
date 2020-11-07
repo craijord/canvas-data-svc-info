@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"quiz_question_group_dim",2,"quiz_question_group_fact,quiz_question_fact","#d5e8d4","#6c8ebf","dimension"
+"quiz_question_group_fact",0,"","#dae8fc","#6c8ebf","fact"
+"quiz_question_fact",0,"","#dae8fc","#6c8ebf","fact"

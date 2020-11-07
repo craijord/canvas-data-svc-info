@@ -1,0 +1,5 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"course_section_dim",3,"assignment_override_fact,assignment_override_user_rollup_fact,enrollment_fact","#d5e8d4","#6c8ebf","dimension"
+"assignment_override_fact",0,"","#dae8fc","#6c8ebf","fact"
+"assignment_override_user_rollup_fact",0,"","#dae8fc","#6c8ebf","fact"
+"enrollment_fact",0,"","#dae8fc","#6c8ebf","fact"

@@ -1,0 +1,6 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"learning_outcome_dim",4,"learning_outcome_rubric_criterion_fact,learning_outcome_question_result_fact,learning_outcome_result_fact,learning_outcome_group_association_fact","#d5e8d4","#6c8ebf","dimension"
+"learning_outcome_rubric_criterion_fact",0,"","#dae8fc","#6c8ebf","fact"
+"learning_outcome_question_result_fact",0,"","#dae8fc","#6c8ebf","fact"
+"learning_outcome_result_fact",0,"","#dae8fc","#6c8ebf","fact"
+"learning_outcome_group_association_fact",0,"","#dae8fc","#6c8ebf","fact"

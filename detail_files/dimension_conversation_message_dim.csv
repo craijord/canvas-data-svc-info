@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"conversation_message_dim",2,"file_fact,conversation_message_participant_fact","#d5e8d4","#6c8ebf","dimension"
+"file_fact",0,"","#dae8fc","#6c8ebf","fact"
+"conversation_message_participant_fact",0,"","#dae8fc","#6c8ebf","fact"

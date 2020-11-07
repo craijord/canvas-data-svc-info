@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"assignment_override_user_dim",2,"assignment_override_user_rollup_fact,assignment_override_user_fact","#d5e8d4","#6c8ebf","dimension"
+"assignment_override_user_rollup_fact",0,"","#dae8fc","#6c8ebf","fact"
+"assignment_override_user_fact",0,"","#dae8fc","#6c8ebf","fact"

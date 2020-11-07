@@ -1,0 +1,5 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"catalog_order_dim",3,"catalog_payment_fact,catalog_order_fact,catalog_order_item_fact","#d5e8d4","#6c8ebf","dimension"
+"catalog_payment_fact",0,"","#dae8fc","#6c8ebf","fact"
+"catalog_order_fact",0,"","#dae8fc","#6c8ebf","fact"
+"catalog_order_item_fact",0,"","#dae8fc","#6c8ebf","fact"

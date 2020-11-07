@@ -1,0 +1,4 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"module_progression_dim",2,"module_progression_fact,module_progression_completion_requirement_fact","#d5e8d4","#6c8ebf","dimension"
+"module_progression_fact",0,"","#dae8fc","#6c8ebf","fact"
+"module_progression_completion_requirement_fact",0,"","#dae8fc","#6c8ebf","fact"

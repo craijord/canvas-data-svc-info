@@ -1,0 +1,6 @@
+"table","relation_count","related_facts","fill","stroke","type"
+"wiki_page_dim",4,"wiki_page_fact,module_progression_completion_requirement_fact,module_completion_requirement_fact,module_item_fact","#d5e8d4","#6c8ebf","dimension"
+"wiki_page_fact",0,"","#dae8fc","#6c8ebf","fact"
+"module_progression_completion_requirement_fact",0,"","#dae8fc","#6c8ebf","fact"
+"module_completion_requirement_fact",0,"","#dae8fc","#6c8ebf","fact"
+"module_item_fact",0,"","#dae8fc","#6c8ebf","fact"
