@@ -1,8 +1,0 @@
-"table","relation_count","related_facts"
-"external_tool_activation_fact",6,"external_tool_activation_dim,course_dim,account_dim,account_dim,enrollment_term_dim,account_dim"
-"external_tool_activation_dim",0,""
-"course_dim",0,""
-"account_dim",0,""
-"account_dim",0,""
-"enrollment_term_dim",0,""
-"account_dim",0,""
